@@ -47,3 +47,25 @@ public class Streams {
 	}
 
 }
+
+//Output
+//As Parallel stream will not be in Order.
+
+//Parallel High Stream Numbers91
+//Parallel High Stream Numbers93
+//Parallel High Stream Numbers94
+//Parallel High Stream Numbers95
+//Parallel High Stream Numbers96
+//Parallel High Stream Numbers97
+//Parallel High Stream Numbers98
+//Parallel High Stream Numbers99
+//Parallel High Stream Numbers92
+//Serial High Stream Numbers91
+//Serial High Stream Numbers92
+//Serial High Stream Numbers93
+//Serial High Stream Numbers94
+//Serial High Stream Numbers95
+//Serial High Stream Numbers96
+//Serial High Stream Numbers97
+//Serial High Stream Numbers98
+//Serial High Stream Numbers99
